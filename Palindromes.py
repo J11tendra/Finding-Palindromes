@@ -2,7 +2,7 @@
 import opening_file
 
 #Defining a file path:
-file_path = 'D:/Python_work/text_files/All_Words.txt'
+file_path = 'Enter the file location'
 
 #loading the List of word:
 load_list = opening_file.open_file(file_path)
