@@ -11,6 +11,6 @@ def open_file(file_path):
 		print(f'{er} Error Opening {file_path}. Terminating Program.')
 
 #Defining a file path:
-file_path = 'D:/Python_work/text_files/All_Words.txt'
+file_path = 'Enter the file location'
 
 #
